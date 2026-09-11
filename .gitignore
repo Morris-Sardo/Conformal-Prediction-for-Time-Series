@@ -1,0 +1,6 @@
+
+#ignore csv file
+*.csv
+
+#ignore oob.ipynb
+oob.ipynb
