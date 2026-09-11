@@ -23,7 +23,7 @@ For Weighted Conformal Prediction (WCP) and Adaptive Conformal Inference (ACI), 
 ## REFERENCES
 [1] Stocker, M., Małgorzewicz, W., Fontana, M. and Taieb, S.B., 2025. A gentle introduction to conformal time series forecasting. arXiv preprint arXiv:2511.13608.
 
-*A Gentle Introduction to Conformal Time Series Forecasting.*
-Available at: https://arxiv.org/abs/2511.13608
+*A Gentle Introduction to Conformal Time Series Forecasting*.
+Available at: https://arxiv.org/abs/2511.13608.
 
 
