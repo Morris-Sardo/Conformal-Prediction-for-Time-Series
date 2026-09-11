@@ -21,4 +21,8 @@ Four synthetic time series are considered: AR(1), ARMA(1,1), Mean Shift, and GAR
 For Weighted Conformal Prediction (WCP) and Adaptive Conformal Inference (ACI), the dataset is divided into training, calibration, and test sets. Ensemble Batch Prediction Intervals (EnbPI) instead uses bootstrap samples and out-of-bag (OOB) observations.
 
 ## REFERENCES
+[1] Stocker, M., Małgorzewicz, W., Fontana, M. and Taieb, S.B., 2025. A gentle introduction to conformal time series forecasting. arXiv preprint arXiv:2511.13608.
+*A Gentle Introduction to Conformal Time Series Forecasting*
+Available at: https://arxiv.org/abs/2511.13608
+
 
