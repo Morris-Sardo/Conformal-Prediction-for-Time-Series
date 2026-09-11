@@ -25,4 +25,11 @@ For Weighted Conformal Prediction (WCP) and Adaptive Conformal Inference (ACI), 
 *A Gentle Introduction to Conformal Time Series Forecasting*.<br>
 Available at: https://arxiv.org/abs/2511.13608.<br>
 
+[2] Hastie, T., Tibshirani, R., Friedman, J.H. and Friedman, J.H., 2009. The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.<br>
+*The elements of statistical learning: data mining, inference, and prediction.*<br>
+Available at: https://link.springer.com/book/10.1007/978-0-387-21606-5.<br>
+
+[3] Tibshirani, R., James, G., Witten, D. and Hastie, T., 2013. Introduction to statistical learning.<br>
+*Introduction to statistical learning*.<br>
+
 
